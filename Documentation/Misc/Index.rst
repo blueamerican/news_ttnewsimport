@@ -17,7 +17,8 @@ Known issues
 	Make sure the ext:news extbase models are generated. This can easily be done by opening a FE page with the ext:news plugin on it.
 * After import the images are media items and not FAL references.
 	Make sure you have enabled FAL support in the extension manager configuration of ext:news
-
+* The news import runs, but only 30 records are imported.	
+	Make sure that assigned images are available in the e.g. uploads folder
 
 Further development
 -------------------
