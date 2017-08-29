@@ -105,4 +105,9 @@ Usage
 
 	# Deletes the old tt_news plugins.
 	./typo3/cli_dispatch.phpsh extbase ttnewspluginmigrate:removeOldPlugins delete=1
+	
+Known problems
+^^^^^
+see FAQ section
+https://github.com/fsaris/news_ttnewsimport/blob/master/Documentation/Misc/Index.rst
 
